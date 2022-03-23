@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="선택정렬.c" />
+    <ClCompile Include="퀵정렬.c" />
     <ClCompile Include="합병 정렬 알고리즘.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

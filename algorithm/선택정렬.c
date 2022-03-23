@@ -15,7 +15,7 @@ void SelectionSort(int* A,int n) {
 		}
 	}
 }
-
+/*
 int main() {
 	clock_t start, end;
 	int numbers[1000000] = { 0, };
@@ -31,4 +31,4 @@ int main() {
 	printf("ÃÑ ¼Ò¿ä½Ã°£ : %.3f\n", (float)(end - start) / CLOCKS_PER_SEC);
 	system("pause");
 	return 0;
-}
+}*/
