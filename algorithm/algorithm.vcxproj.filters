@@ -24,5 +24,11 @@
     <ClCompile Include="퀵정렬.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="버블 정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입 정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

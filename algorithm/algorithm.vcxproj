@@ -140,6 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="버블 정렬.cpp" />
+    <ClCompile Include="삽입 정렬.cpp" />
     <ClCompile Include="선택정렬.c" />
     <ClCompile Include="퀵정렬.c" />
     <ClCompile Include="합병 정렬 알고리즘.c" />
